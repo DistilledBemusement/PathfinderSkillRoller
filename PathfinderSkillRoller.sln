@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfinderSkillRoller", "PathfinderSkillRoller\PathfinderSkillRoller.csproj", "{33C089F6-FB73-45AC-A419-76B78DAA0F5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFLibrary", "PFLibrary\PFLibrary.csproj", "{B29BE37D-BFB4-4A67-8289-C18167C0F392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{33C089F6-FB73-45AC-A419-76B78DAA0F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33C089F6-FB73-45AC-A419-76B78DAA0F5F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33C089F6-FB73-45AC-A419-76B78DAA0F5F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B29BE37D-BFB4-4A67-8289-C18167C0F392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29BE37D-BFB4-4A67-8289-C18167C0F392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29BE37D-BFB4-4A67-8289-C18167C0F392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29BE37D-BFB4-4A67-8289-C18167C0F392}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
